@@ -13,6 +13,10 @@ Endpoint direcionado para recuperar link de boleto.
 ```php
 URL: https://sami.samierp.com.br/api/v1/condominium/finantial/non-payment/
 ```
+##### **Method**
+```json
+GET
+```
 
 ##### **Header**
 ```json
